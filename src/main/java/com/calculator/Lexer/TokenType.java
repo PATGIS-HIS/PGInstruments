@@ -20,5 +20,4 @@ public enum TokenType {
     // Special
     EOF,
     ERROR,
-
 }
